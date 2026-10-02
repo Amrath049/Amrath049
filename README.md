@@ -1,16 +1,16 @@
 # Amrath Prasad
-### Backend Developer
-A passionate **Backend Developer** with 2 year of experience in building scalable web applications. I specialize in Node.js, NestJS, and MongoDB, and I am skilled in implementing RESTful APIs and working with microservices and other third-party integrations. My goal is to build clean, maintainable code and contribute to product innovation.
+###  Backend-focused fullstack Developer
+A passionate **Software Developer** with 2+ year of experience in building scalable web applications. I specialize in Node.js, NestJS, React, and MongoDB, and I am skilled in implementing RESTful APIs and working with microservices and other third-party integrations. My goal is to build clean, maintainable code and contribute to product innovation.
 
 ---
 
 ## 💡 Skills & Technologies
 
-* **Programming Languages & Frameworks:** JavaScript, TypeScript, Node.js, NestJS, Express.js
+* **Programming Languages & Frameworks:** JavaScript, TypeScript, React, Node.js, NestJS, Express.js
 * **APIs & Architectural Design:** Microservices, RESTful APIs, OpenAPI/Swagger
 * **Databases & Caching:** PostgreSQL, MongoDB, Redis
 * **Third-Party Services & Integrations:** Stripe, PhonePe, Razorpay, MSG91, Interakt
-* **Development Tools & Practices:** Git, Postman, Docker.
+* **Development Tools & Practices:** Git, Postman.
 * **Interests:** UI / UX design, Data Science, Full Stack Web development
 
 ---
